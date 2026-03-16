@@ -1,18 +1,66 @@
-# React + Vite
+🌐 Developer Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern personal portfolio website designed to showcase my skills, projects, and experience as a Full Stack Developer.
+The website provides an overview of my background, technical expertise, resume, and contact details in a clean and responsive interface.
 
-Currently, two official plugins are available:
+This portfolio acts as my professional digital identity, allowing recruiters and collaborators to easily explore my work and get in touch with me.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Features
 
-## React Compiler
+Clean and modern user interface
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+Fully responsive design for all devices
 
-Note: This will impact Vite dev & build performances.
+Easy navigation between pages
 
-## Expanding the ESLint configuration
+Resume section for professional details
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Contact section for collaboration or opportunities
+
+Built using modern web technologies
+
+📄 Website Pages
+🏠 Home
+
+The landing page introducing who I am and what I do.
+It provides a quick overview of my work and directs visitors to other sections of the portfolio.
+
+👨‍💻 About
+
+This page describes my background, interests, and journey in software development.
+It highlights my passion for Full Stack Development and modern technologies.
+
+📑 Resume
+
+A dedicated page where visitors can view or download my professional resume, including my skills, education, and experience.
+
+📬 Contact
+
+Allows visitors, recruiters, or collaborators to reach out to me easily through my contact information.
+
+🛠️ Tech Stack
+Frontend
+
+HTML
+
+CSS
+
+Tailwind CSS
+
+React
+
+Backend
+
+Node.js
+
+Database
+
+MongoDB
+
+Tools & Technologies
+
+Git
+
+GitHub
+
+REST APIs
