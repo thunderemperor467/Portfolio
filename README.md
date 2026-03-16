@@ -65,31 +65,29 @@ GitHub
 
 REST APIs
 
+## 📂 Project Structure
 
-FOLDER STRUCTURE
+```
 TEST-PORTFOLIO
 │
 ├── app
-│   │
 │   ├── backend
 │   │   ├── __pycache__/
 │   │   ├── resume/
-│   │   ├── .env
 │   │   ├── models.py
-│   │   └── server.py
+│   │   ├── server.py
+│   │   └── .env
 │   │
 │   └── frontend
 │       ├── node_modules/
 │       ├── public/
-│       │
-│       ├── src
+│       ├── src/
 │       │   ├── assets/
 │       │   ├── components/
 │       │   ├── context/
 │       │   ├── data/
 │       │   ├── hooks/
 │       │   ├── pages/
-│       │   │
 │       │   ├── App.css
 │       │   ├── App.jsx
 │       │   ├── index.css
@@ -103,4 +101,7 @@ TEST-PORTFOLIO
 │       ├── package-lock.json
 │       └── postcss.config.js
 │
+└── .venv/
+```
+
 └── .venv/
