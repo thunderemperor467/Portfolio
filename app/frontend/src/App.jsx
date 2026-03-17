@@ -8,7 +8,7 @@ import Resume from './pages/Resume';
 import Contact from './pages/Contact';
 import { ThemeProvider } from './context/ThemeContext';
 import {Toaster} from "./components/ui/toaster";
-import { Analytics } from "@vercel/analytics/next"
+import { Analytics } from '@vercel/analytics/react';
 
 function App() {
   return (
@@ -25,6 +25,7 @@ function App() {
           </Routes>
         </BrowserRouter>
         <Toaster/>
+        <Analytics />
       </div>
     </ThemeProvider>
   );
